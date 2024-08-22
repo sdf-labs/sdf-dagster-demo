@@ -134,7 +134,7 @@ Navigate to the dagster development server UI in your browser (usually at `http:
 
 Click on view lineage to visualize your SDF Workspace asset dag, and explore the metadata, available at compile time, like `dagster/column_schema` in the Metadata section. Just click [Show Table Schema].
 
-![Webserver and Asset Dag](https://cdn.sdf.com/img/dagster-sdf-gif-1.gif)
+![gif](https://cdn.sdf.com/img/dagster-sdf-gif-1.gif)
 
 ### Step 8: Materialize all assets in the Dagster UI and explore the metadata, like Materialized from Cache and Execution Duration
 
